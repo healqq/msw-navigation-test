@@ -17,7 +17,8 @@ export function parseWorkerRequest(
 
 To start run `npm start`
 
-Setup:
+## Setup
+
 index page has two links, to /foo and to /bar
 /foo route is mocked by MSW
 /bar route is not mocked
